@@ -1,0 +1,26 @@
+EXTM3U
+
+################################################# ######################### Canais | ABERTO
+
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | abertos",GLOBO FHD
+
+EXTINF:-1 tvg-logo="https://imgur.com/a/PEH87Ri" group-title="Canais | abertos",SBT FHD
+https://aovivo.maissbt.com/index_24.m3u8?content_channel_id=12&content_livestream=1
+
+EXTINF:-1 tvg-logo="https://imgur.com/a/VTtTB4z" group-title="Canais | abertos",RECORD NEWS HD
+https://stmv1.srvif.com/animetv/animetv/chunklist_w660207909.m3u8
+
+EXTINF:-1 tvg-logo="https://imgur.com/a/4aDB0OU" group-title="Canais | abertos",TV GAZETA HD
+https://live-b.cf.dmcdn.net/sec2(62Rk-hqQr2ekABYn7OldTwgkA-pIOCX8TH2s8HfTf9ADYliZsedfDKHeDdii9jZ02XjTfi0h34Qmz3ABVt1X7tY2UMeA1iDRjEoopWEglE)/dm/3/x8ttlxm /s/live-480.m3u8#cell=lcfb
+
+EXTINF:-1 tvg-logo="https://imgur.com/a/ZcwPc2b" group-title="Canais | abertos",REDE VIDA HD
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/live-redevida/720p/chunks.m3u8
+
+EXTINF:-1 tvg-logo="https://imgur.com/a/BjYxAsP" group-title="Canais | abertos",TV BRASIL HD
+https://tvbrasil-stream.ebc.com.br/chunks.m3u8
+
+EXTINF:-1 tvg-logo="https://imgur.com/a/InW8p9k" group-title="Canais | abertos",TV CULTURA HD
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1832592517.m3u8
+
+################################################# #######################
+ A Fazenda 16
